@@ -548,11 +548,6 @@ h5 {
   margin-bottom: 5rem;
 }
 
-.my-44 {
-  margin-top: 11rem;
-  margin-bottom: 11rem;
-}
-
 .mb-40 {
   margin-bottom: 10rem;
 }
@@ -823,10 +818,6 @@ body {
   }
 
   .md\:flex-row {
-    flex-direction: row;
-  }
-
-  .flex-row {
     flex-direction: row;
   }
 
